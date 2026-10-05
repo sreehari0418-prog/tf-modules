@@ -1,6 +1,8 @@
-#adding git ignore files
+
 .terraform/
 *.tfstate
 .terraform.lock.hcl
 dev.hcl
 prod.hcl
+dev.tfvars
+prod.tfvars
